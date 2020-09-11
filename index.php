@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<?php 
-    echo 'fix conflicts';
-?>
-=======
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,4 +9,3 @@
     
 </body>
 </html>
->>>>>>> updating
