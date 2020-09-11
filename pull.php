@@ -10,4 +10,10 @@
     echo 'valor <br>';
   }
 
+ $persona2 = [
+      "nombre" => "Pancracio",
+      "apellido" => "Garcia",
+      "edad" => "55"
+  ];
+
 ?>
